@@ -13,4 +13,4 @@ result+=tens[y];
 result+=ones[z];
 console.log(result);
 }
-translateToRoman(478);
+translateToRoman(1);
