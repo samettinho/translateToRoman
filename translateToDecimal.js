@@ -51,6 +51,6 @@ function translateToDecimal(num) {
             break;
         }
     }
-    console.log(result);
+    console.log(result); 
 }
     translateToDecimal("vI");
